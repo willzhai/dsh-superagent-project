@@ -1,0 +1,11 @@
+{
+  "name": "nebula-todo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NEBULA // 待办终端 — 蓝黑科技感本地待办应用",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test tests/todo-core.test.mjs"
+  }
+}
